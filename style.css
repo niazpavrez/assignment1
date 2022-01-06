@@ -18,6 +18,11 @@ h1{
     margin-bottom: 100px;
 }
 
+.special-design{
+    border-left: rgb(236, 60, 29) solid;
+    padding-left: 10px;
+}
+
 .mission-vission{
     margin-top: 20px;
     
@@ -44,6 +49,13 @@ h1{
    background-position: left;
    background-repeat: no-repeat;
    background-size: 15%;
+}
+
+.global-community{
+    background-image: url(shapes/shape-1.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 15%;
 }
 
 .mission-vission{
@@ -86,11 +98,3 @@ h1{
     width: 100px;
 }
 
-.half-width1{
-    width: 20%;
-    padding-left: 5%;
-   
-}
-.half-width1 img{
-    width: 20%;
- 
