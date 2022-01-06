@@ -17,6 +17,11 @@ h1{
     margin-top: 100px;
     margin-bottom: 100px;
 }
+
+.mission-vission{
+    margin-top: 20px;
+    
+}
 .half-width{
     width: 50%;
     padding-left: 5%;
@@ -41,7 +46,51 @@ h1{
    background-size: 15%;
 }
 
-.center {
-    text-align: center;
-    
-  }
+.mission-vission{
+    display: flex;
+    padding: 10px 100px;
+}
+.my-mission1{
+    background-color: rgb(201, 232, 233);
+    width: 50%;
+    margin-left: 5%;
+    border-radius: 15px;
+    padding left: 10px;
+    padding right: 10px;
+}
+.my-mission1 img{
+    width: 100px;
+}
+
+.my-mission2{
+    background-color: rgb(223, 199, 221);
+    width: 50%;
+    margin-left: 5%;
+    border-radius: 15px;
+    padding left: 10px;
+    padding right: 10px;
+}
+.my-mission2 img{
+    width: 100px;
+}
+
+.my-mission3{
+    background-color: rgb(245, 247, 158);
+    width: 50%;
+    margin-left: 5%;
+    border-radius: 15px;
+    padding left: 10px;
+    padding right: 10px;
+}
+.my-mission3 img{
+    width: 100px;
+}
+
+.half-width1{
+    width: 20%;
+    padding-left: 5%;
+   
+}
+.half-width1 img{
+    width: 20%;
+ 
