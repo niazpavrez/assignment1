@@ -12,7 +12,7 @@ h1{
 .yellow-color{
     color:darkorange
 }
-section{
+.flexible-container{
     display: flex;
     margin-top: 100px;
     margin-bottom: 100px;
@@ -20,7 +20,7 @@ section{
 .half-width{
     width: 50%;
     padding-left: 5%;
-    padding-right: 5%;
+   
 }
 .half-width img{
     width: 60%;
